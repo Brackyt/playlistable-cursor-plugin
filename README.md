@@ -1,27 +1,23 @@
-# Playlistable for Cursor
+# Playlistable
 
-Cursor and Grok Bot plugin for the [Playlistable](https://playlistable.io) MCP. Create AI playlists from a prompt.
+Turn a prompt into a playlist on Spotify or Apple Music.
 
-This repo is public on purpose. It only contains the MCP URL, OAuth, and a skill. No API keys.
+Install the plugin, connect the account you already use on [playlistable.io](https://playlistable.io), then ask for a playlist. It lands in that service.
 
-- MCP: `https://mcp.playlistable.io`
-- Auth: OAuth when prompted. You can also use a personal `sk_mcp_...` key from the Playlistable app.
+## What you can do
+
+- Make a playlist from a mood, activity, or prompt
+- Get suggestions based on what you listen to
+- Search songs and artists
+- Edit or delete playlists you made
+
+Generation is async: you get a link right away, tracks fill in after. Free accounts get a short teaser. Full playlists are on playlistable.io.
 
 ## Install
 
-After it is listed, install **Playlistable** from the Cursor Marketplace (Customize → Plugins). Grok Bot uses the same marketplace: Settings → Plugins.
+In Cursor, open the Marketplace and install **Playlistable**. Same plugin in Grok Bot under Settings → Plugins.
 
-Connect, then sign in when Cursor asks.
-
-## Test locally
-
-Clone this repo and add it as a local plugin, or copy it to `~/.cursor/plugins/local/playlistable`.
-
-## Submit
-
-Public repo: https://github.com/Brackyt/playlistable-cursor-plugin
-
-Submit at [cursor.com/marketplace/publish](https://cursor.com/marketplace/publish). Cursor reviews plugins by hand.
+When it asks, sign in with Spotify or Apple Music.
 
 ## License
 

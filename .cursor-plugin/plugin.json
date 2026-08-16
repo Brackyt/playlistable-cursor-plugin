@@ -2,7 +2,7 @@
   "name": "playlistable",
   "displayName": "Playlistable",
   "version": "1.0.0",
-  "description": "Create AI playlists from a prompt via the Playlistable MCP.",
+  "description": "Create AI playlists on Spotify or Apple Music from a prompt.",
   "author": {
     "name": "Playlistable"
   },
