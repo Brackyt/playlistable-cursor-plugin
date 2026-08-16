@@ -8,12 +8,12 @@ Install the plugin, connect the account you already use on [playlistable.io](htt
 
 **You pick the songs.** Search, then save. Free. Playlistable is just the bridge into Spotify or Apple Music.
 
-**Playlistable picks.** You give a mood. It uses listening history. That's the better playlist, and it's paid on playlistable.io (one free teaser).
+**Playlistable builds it.** You say the mood. It makes a playlist that actually works, from your taste. That's the one worth paying for, on playlistable.io (one free teaser).
 
 ## What you can do
 
 - Save a playlist from songs you already chose
-- Generate a playlist from a mood (paid / teaser)
+- Let Playlistable build one from a mood (paid / teaser)
 - Search songs and artists
 - Edit or delete playlists you made
 
