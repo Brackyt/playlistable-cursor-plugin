@@ -21,7 +21,7 @@ After a free `create_playlist`, say that once, plainly. Don't hard-sell. Don't c
 
 ## How it works
 
-`create_playlist` is sync. You pass catalog track IDs from `search_songs` (max 50). You get the library URL immediately.
+`create_playlist` is sync. You pass catalog track IDs from `search_songs`. You get the library URL immediately.
 
 `generate_playlist` is async. It returns a URL immediately. Tracks fill in in the background. Use `get_playlist` to check status.
 

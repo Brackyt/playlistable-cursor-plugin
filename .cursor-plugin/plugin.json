@@ -2,7 +2,7 @@
   "name": "playlistable",
   "displayName": "Playlistable",
   "version": "1.0.0",
-  "description": "Create AI playlists on Spotify or Apple Music from a prompt.",
+  "description": "Make playlists on Spotify or Apple Music from Cursor. Save the songs you picked, or let Playlistable build one that actually works.",
   "author": {
     "name": "Playlistable"
   },
